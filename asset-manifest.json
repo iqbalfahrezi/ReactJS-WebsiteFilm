@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/ReactJS-WebsiteFilm/static/css/main.5481d62a.css",
+    "main.js": "/ReactJS-WebsiteFilm/static/js/main.9de41b93.js",
+    "static/js/787.e055832c.chunk.js": "/ReactJS-WebsiteFilm/static/js/787.e055832c.chunk.js",
+    "static/media/scifi.jpg": "/ReactJS-WebsiteFilm/static/media/scifi.d7e33e800ac02f489fd8.jpg",
+    "static/media/spiderman.jpg": "/ReactJS-WebsiteFilm/static/media/spiderman.2d8e48db70fee2a9fbe9.jpg",
+    "static/media/main.jpg": "/ReactJS-WebsiteFilm/static/media/main.4a912a242568343fea42.jpg",
+    "static/media/FLASH.jpg": "/ReactJS-WebsiteFilm/static/media/FLASH.a8b386f0eb2aa23b5799.jpg",
+    "static/media/SPIDERMAN.jpg": "/ReactJS-WebsiteFilm/static/media/SPIDERMAN.05ca5098196e1a5e8287.jpg",
+    "static/media/UNCHARTED.jpg": "/ReactJS-WebsiteFilm/static/media/UNCHARTED.9753ffd177aa49033908.jpg",
+    "static/media/SHANG CHI.jpg": "/ReactJS-WebsiteFilm/static/media/SHANG CHI.56537d723b62e2e463ad.jpg",
+    "static/media/BATMAN.jpg": "/ReactJS-WebsiteFilm/static/media/BATMAN.48d8762bf46c3a9e94b0.jpg",
+    "static/media/ADAM.jpg": "/ReactJS-WebsiteFilm/static/media/ADAM.04176ec3103f6ed017e1.jpg",
+    "static/media/PEAKY.jpg": "/ReactJS-WebsiteFilm/static/media/PEAKY.45d13635de67de91c5dd.jpg",
+    "static/media/MOERBIUS.jpg": "/ReactJS-WebsiteFilm/static/media/MOERBIUS.614ed2e8cc799f4ef6f5.jpg",
+    "static/media/ETERNAL.jpg": "/ReactJS-WebsiteFilm/static/media/ETERNAL.3065560aea1e95542b4f.jpg",
+    "static/media/AVENGERS.jpg": "/ReactJS-WebsiteFilm/static/media/AVENGERS.fac32eca8c72ce2a23d8.jpg",
+    "static/media/STARNGE.jpg": "/ReactJS-WebsiteFilm/static/media/STARNGE.b01e6211d7bb4b8fae44.jpg",
+    "static/media/VICTOR.jpg": "/ReactJS-WebsiteFilm/static/media/VICTOR.57aa57e6b7531db88636.jpg",
+    "index.html": "/ReactJS-WebsiteFilm/index.html",
+    "main.5481d62a.css.map": "/ReactJS-WebsiteFilm/static/css/main.5481d62a.css.map",
+    "main.9de41b93.js.map": "/ReactJS-WebsiteFilm/static/js/main.9de41b93.js.map",
+    "787.e055832c.chunk.js.map": "/ReactJS-WebsiteFilm/static/js/787.e055832c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5481d62a.css",
+    "static/js/main.9de41b93.js"
+  ]
+}
