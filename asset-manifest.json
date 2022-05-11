@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ReactJS-WebsiteFilm/static/css/main.5481d62a.css",
-    "main.js": "/ReactJS-WebsiteFilm/static/js/main.9de41b93.js",
+    "main.js": "/ReactJS-WebsiteFilm/static/js/main.06e99655.js",
     "static/js/787.e055832c.chunk.js": "/ReactJS-WebsiteFilm/static/js/787.e055832c.chunk.js",
     "static/media/scifi.jpg": "/ReactJS-WebsiteFilm/static/media/scifi.d7e33e800ac02f489fd8.jpg",
     "static/media/spiderman.jpg": "/ReactJS-WebsiteFilm/static/media/spiderman.2d8e48db70fee2a9fbe9.jpg",
@@ -20,11 +20,11 @@
     "static/media/VICTOR.jpg": "/ReactJS-WebsiteFilm/static/media/VICTOR.57aa57e6b7531db88636.jpg",
     "index.html": "/ReactJS-WebsiteFilm/index.html",
     "main.5481d62a.css.map": "/ReactJS-WebsiteFilm/static/css/main.5481d62a.css.map",
-    "main.9de41b93.js.map": "/ReactJS-WebsiteFilm/static/js/main.9de41b93.js.map",
+    "main.06e99655.js.map": "/ReactJS-WebsiteFilm/static/js/main.06e99655.js.map",
     "787.e055832c.chunk.js.map": "/ReactJS-WebsiteFilm/static/js/787.e055832c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5481d62a.css",
-    "static/js/main.9de41b93.js"
+    "static/js/main.06e99655.js"
   ]
 }
